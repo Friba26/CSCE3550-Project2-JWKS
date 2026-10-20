@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+.coverage
+.DS_Store
+main_project1_backup.py
+totally_not_my_privateKeys.db
